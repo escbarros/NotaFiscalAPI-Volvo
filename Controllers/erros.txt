@@ -1,0 +1,139 @@
+Erro ao criar concessionaria (cnpj invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 23
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 26
+
+Erro ao criar concessionaria (cnpj invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 31
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 27
+
+Erro ao criar concessionaria (Telefone invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 33
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 27
+
+Erro ao buscar Funcionario (Cep invalido)
+Void EnderecoConcessionariaTratamento(WebApiNotaFiscal.Models.EnderecoConcessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoConcessionariaTratamento(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 39
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionariaEndereco(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 50
+
+Erro ao buscar Funcionario (Numero da rua nao pode ser menor ou igual a zero)
+Void EnderecoConcessionariaTratamento(WebApiNotaFiscal.Models.EnderecoConcessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoConcessionariaTratamento(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 41
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionariaEndereco(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 50
+
+Erro ao buscar Funcionario (Nome de municipio invalido)
+Void EnderecoConcessionariaTratamento(WebApiNotaFiscal.Models.EnderecoConcessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoConcessionariaTratamento(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 44
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionariaEndereco(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 50
+
+Erro ao buscar Funcionario (Cep invalido)
+Void EnderecoClienteTratamento(WebApiNotaFiscal.Models.Endereco)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoClienteTratamento(Endereco enderecoCliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 51
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostClienteEndereco(Endereco endereco) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 73
+
+Erro ao buscar Funcionario (Cep invalido)
+Void EnderecoClienteTratamento(WebApiNotaFiscal.Models.Endereco)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoClienteTratamento(Endereco enderecoCliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 51
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostClienteEndereco(Endereco endereco) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 73
+
+Erro ao buscar Funcionario (telefone invalido)
+Void ClienteTratamento(WebApiNotaFiscal.Models.Cliente)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ClienteTratamento(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 62
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostCliente(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 96
+
+Erro ao buscar Funcionario (Cpf invalido)
+Void ClienteTratamento(WebApiNotaFiscal.Models.Cliente)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ClienteTratamento(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 64
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostCliente(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 96
+
+Erro ao buscar Funcionario (CPF invalido)
+Void ClienteTratamento(WebApiNotaFiscal.Models.Cliente)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ClienteTratamento(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 65
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostCliente(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 96
+
+Erro ao buscar Funcionario (Email invalido)
+Void ClienteTratamento(WebApiNotaFiscal.Models.Cliente)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ClienteTratamento(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 66
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostCliente(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 96
+
+Erro ao buscar Funcionario (O valor total nao pode ser menor que 0)
+Microsoft.AspNetCore.Mvc.IActionResult PostVenda(WebApiNotaFiscal.Models.Venda)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostVenda(Venda venda) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 120
+
+Erro ao buscar Funcionario (Cor nao disponivel, as seguintes cores estao disponiveis: azul, veremlho, prata e preto)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 70
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostProduto(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 202
+
+Erro ao buscar Funcionario (Um carro que custa menos de 10k nao e vendido nessa concessionaria)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 72
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostProduto(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 202
+
+Erro ao buscar Funcionario (Nenhuma venda encontrada)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 227
+
+Erro ao criar concessionaria (Telefone invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 31
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 43
+
+Erro ao criar concessionaria (Telefone invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 31
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 43
+
+Erro ao criar concessionaria (Telefone invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 31
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 43
+
+Erro ao cadastrar endereco do cliente (Nome de rua invalida)
+Void EnderecoClienteTratamento(WebApiNotaFiscal.Models.Endereco)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoClienteTratamento(Endereco enderecoCliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 52
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostClienteEndereco(Endereco endereco) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 89
+
+Erro ao cadastrar Funcionario (telefone invalido)
+Void ClienteTratamento(WebApiNotaFiscal.Models.Cliente)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ClienteTratamento(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 60
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostCliente(Cliente cliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 112
+
+Erro ao cadastrar venda (O valor total nao pode ser menor igual a 0)
+Microsoft.AspNetCore.Mvc.IActionResult PostVenda(WebApiNotaFiscal.Models.Venda)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostVenda(Venda venda) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 155
+
+Erro ao casastrar produto (Um carro nao pode ter a sua quilometragem negativa)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 77
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostProduto(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 227
+
+Erro ao gerear nota fiscal (Nenhuma compra encontrada)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 257
+
+Erro ao gerear nota fiscal (Nenhuma venda encontrada)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 252
+
+Erro ao gerear nota fiscal (Cliente nao encontrado)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 262
+
+Erro ao gerear nota fiscal (Cliente nao encontrado)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 262
+
+Erro ao gerear nota fiscal (Cliente nao encontrado)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 262
+
+Erro ao gerear nota fiscal (Cliente nao encontrado)
+Microsoft.AspNetCore.Mvc.IActionResult getNF(Int32)    at WebApiNotaFiscal.Controllers.SistemaNotaControllers.getNF(Int32 id) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 262
+
+Erro ao cadastrar endereco da concessionaria (Cep invalido)
+Void EnderecoConcessionariaTratamento(WebApiNotaFiscal.Models.EnderecoConcessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoConcessionariaTratamento(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 37
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionariaEndereco(EnderecoConcessionaria enderecoConcessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 66
+
+Erro ao cadastrar endereco do cliente (Cep invalido)
+Void EnderecoClienteTratamento(WebApiNotaFiscal.Models.Endereco)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.EnderecoClienteTratamento(Endereco enderecoCliente) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 49
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostClienteEndereco(Endereco endereco) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 89
+
+Erro ao casastrar produto (Cor nao disponivel, as seguintes cores estao disponiveis: azul, veremlho, prata e preto)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 76
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostProduto(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 229
+
+Erro ao casastrar produto (Cor nao disponivel, as seguintes cores estao disponiveis: azul, veremlho, prata e preto)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 76
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostProduto(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 229
+
+Erro ao atualizar funcionario (Cor nao disponivel, as seguintes cores estao disponiveis: azul, veremlho, prata e preto)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 76
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PutVeiculo(Int32 id, Produto novoProduto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 468
+
+Erro ao atualizar funcionario (Um carro que custa menos de 10k nao e vendido nessa concessionaria)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 78
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PutVeiculo(Int32 id, Produto novoProduto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 468
+
+Erro ao atualizar funcionario (Fabricante com caracteres invalidos)
+Void ProdutoTratamento(WebApiNotaFiscal.Models.Produto)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ProdutoTratamento(Produto produto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 79
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PutVeiculo(Int32 id, Produto novoProduto) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 468
+
+Erro ao criar concessionaria (cnpj invalido)
+Void ConcessionariaTratamento(WebApiNotaFiscal.Models.Concessionaria)    at WebApiNotaFiscal.Controllers.SistemaConcessionariaTratamento.ConcessionariaTratamento(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\ConcessionariaException.cs:line 29
+   at WebApiNotaFiscal.Controllers.SistemaNotaControllers.PostConcessionaria(Concessionaria concessionaria) in C:\Users\Eduardo\Desktop\WebApiNotaFiscal\Controllers\SistemaNotaControllers.cs:line 43
+
